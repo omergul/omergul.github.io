@@ -1,0 +1,83 @@
+body {
+	font-family: Helvetica, arial, sans-serif;
+	font-family: facitweb-1, facitweb-2, Helvetica, arial, sans-serif;
+	color: #666;
+	background: #fff;
+}
+
+a {
+	text-decoration:none;
+}
+
+.hidden {
+	display:none;
+}
+
+.clear {
+	clear:both;
+}
+
+#wrapper {
+	float:left;
+	margin-top:60px;
+	margin-left:50px;
+	width:450px;
+	position:relative;
+	z-index:1000;
+}
+
+p.info {
+	margin-top:20px;
+	font-weight:lighter;
+	line-height:28px;
+}
+
+p.info a {
+	color:#0088CA;
+	font-weight:bold;
+}
+
+p.info a:hover {
+	text-decoration:underline;
+}
+
+ul.info {
+	margin-top:15px;
+	font-weight:lighter;
+	line-height:28px;
+}
+
+ul.info a {
+	color:#957700;
+}
+
+ul.info a:hover {
+	text-decoration:underline;
+}
+
+h1 {
+	font-weight:bold;
+	font-size: 20px;
+	font-family: facitweb-1, facitweb-2, Helvetica, arial, sans-serif;
+}
+
+h2 {
+	color: #666;
+	font-weight:bold;
+	font-size: 18px;
+}
+
+#joker {
+	position:absolute;
+	right:50px;
+	top:120px;
+	display:none;	
+}
+
+#countDown {
+	font-size:150px;
+	position:absolute;
+	right:50px;
+	top:120px;
+	color:#E6E3EA;
+}
