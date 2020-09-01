@@ -34,7 +34,7 @@ p.info {
 
 p.info a {
 	color:#0088CA;
-	font-weight:bold;
+	font-weight: 500;
 }
 
 p.info a:hover {
